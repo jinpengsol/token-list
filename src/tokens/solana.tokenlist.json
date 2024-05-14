@@ -4,7 +4,7 @@ chainId": 101,
   "name": "Jinpeng",
   "decimals": 9,
   "logoURI": "https://i.imgur.com/m2yU7C6.jpeg",
-  "tags": ["MEME", "PolitiFi"],
+  "tags": ["MEME","PolitiFi"],
   "extensions": {
-    "website": "https://www.jinpengsol.com/",
-    "twitter": "https://twitter.com/jinpengsol
+    "website": "www.jinpengsol.com/",
+    "twitter": "twitter.com/jinpengsol"
